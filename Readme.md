@@ -152,6 +152,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ## 🖼️ System Architecture Diagram
-![System Architecture Diagram](images/system-architecture.png)
+![System Architecture Diagram](system-architecture.png)
 _The diagram illustrating the high-level architecture of the system._
 
