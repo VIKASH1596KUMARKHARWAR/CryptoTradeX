@@ -11,6 +11,12 @@ We welcome contributions from all developers and would love to connect with like
 
 ## 🏗️ System Architecture
 
+
+## 🖼️ System Architecture Diagram
+![System Architecture Diagram](system-architecture.png)
+_The diagram illustrating the high-level architecture of the system._
+
+
 The system is divided into the following services:
 
 - **API**: Handles HTTP requests from users.
@@ -143,15 +149,4 @@ We'd love to connect with developers who are passionate about building scalable,
 - For issues with the API server or engine, check the logs for detailed error messages.
 
 ---
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-
-
-## 🖼️ System Architecture Diagram
-![System Architecture Diagram](system-architecture.png)
-_The diagram illustrating the high-level architecture of the system._
 
